@@ -1,3 +1,7 @@
+import Upp1.Category;
+import Upp1.Database;
+import Upp1.Question;
+import Upp1.RewriteMe;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
